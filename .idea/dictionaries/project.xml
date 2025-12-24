@@ -1,0 +1,31 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="project">
+    <words>
+      <w>ampm</w>
+      <w>autotile</w>
+      <w>buildmode</w>
+      <w>burntime</w>
+      <w>coords</w>
+      <w>currentsave</w>
+      <w>datakeys</w>
+      <w>dateformat</w>
+      <w>dhrs</w>
+      <w>dmin</w>
+      <w>dmins</w>
+      <w>gamemode</w>
+      <w>gmtoggle</w>
+      <w>itemid</w>
+      <w>mttoggle</w>
+      <w>playerdata</w>
+      <w>playerkeys</w>
+      <w>setdefaultgamemode</w>
+      <w>setworldspawn</w>
+      <w>tiledata</w>
+      <w>timeformat</w>
+      <w>timeset</w>
+      <w>worldcreate</w>
+      <w>worldinfo</w>
+      <w>worldselect</w>
+    </words>
+  </dictionary>
+</component>
