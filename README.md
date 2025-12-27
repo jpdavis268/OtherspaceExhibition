@@ -12,4 +12,4 @@ including the graphics pipeline. The game itself, while still early in developme
 Everything within the game outside of the libraries and audio effects was made by me, including the sprites. I am very proud of what I have accomplished with this project, and intend to continue working on it.
 <br>
 <br>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f0f8cd5-d177-49e0-bc20-9282664c10de" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f41aea0-5231-45db-8317-391aaf11ef6e" />
